@@ -1,0 +1,19 @@
+.dialog-title {
+    text-align: center;
+    color: #fff
+}
+
+.margin-10 {
+    margin-top: 10px;
+}
+
+.margin-50 {
+    margin-top: 20px;
+}
+
+#documentTemplateDialog {
+    border-radius: 15px;
+    border: 1px solid red;
+    padding: 12px;
+    background-color: rgba(255, 0, 0, 0.062);
+}
